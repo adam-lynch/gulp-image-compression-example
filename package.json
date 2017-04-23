@@ -1,0 +1,30 @@
+{
+  "name": "gulp-image-compression-example",
+  "version": "1.0.0",
+  "description": "Example gulp setup for image compression; created to help with https://twitter.com/MissRachilli/status/856127759650885632",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam-lynch/gulp-image-compression-example.git"
+  },
+  "keywords": [
+    "gulp",
+    "image",
+    "compression"
+  ],
+  "author": "Adam Lynch <contact@adamlynch.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adam-lynch/gulp-image-compression-example/issues"
+  },
+  "homepage": "https://github.com/adam-lynch/gulp-image-compression-example#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-changed": "^3.0.0",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-load-plugins": "^1.5.0"
+  }
+}
